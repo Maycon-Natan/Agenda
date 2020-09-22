@@ -34,7 +34,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Lista de Pessoas'),
+        title: Text('Lista de Contatos'),
         backgroundColor: Colors.blueGrey,
         centerTitle: true,
         actions: <Widget>[],
